@@ -10,6 +10,15 @@ In deep learning, using a convolutional neural network (CNN) we are trying to de
 
 > A face mask detection dataset consists of “with mask” and “without mask” images. We will use the dataset to build a COVID-19 face mask detector with computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras.
 
+
+This dataset consists of 1,376 images belonging to two classes:
+- with_mask: 690 images
+- without_mask: 686 images
+
+Our goal is to train a custom deep learning model to detect whether a person is or is not wearing a mask.
+
+**Note:** For convenience, I have included the dataset created by Prajna.
+
 ## Using
 
 ```
