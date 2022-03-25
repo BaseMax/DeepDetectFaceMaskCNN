@@ -1,6 +1,6 @@
 # Detect Face Mask (CNN, Convolutional neural network)
 
-In deep learning, using a convolutional neural network (CNN) we are trying to detect face have MASK or no
+In the deep learning, using a convolutional neural network (**CNN**) we are trying to detect which faces wear **MASK** and which no.
 
 ![Detect Face Mask - CNN](demo.webp)
 
