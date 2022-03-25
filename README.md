@@ -2,11 +2,9 @@
 
 In the deep learning, using a convolutional neural network (**CNN**) we are trying to detect which faces wear **MASK** and which no.
 
-![Detect Face Mask - CNN](demo.webp)
-
 ## COVID-19 face mask detection dataset
 
-
+![COVID-19 face mask detection dataset](demo-dataset.png)
 
 > A face mask detection dataset consists of “with mask” and “without mask” images. We will use the dataset to build a COVID-19 face mask detector with computer vision and deep learning using Python, OpenCV, and TensorFlow/Keras.
 
