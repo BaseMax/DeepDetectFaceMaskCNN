@@ -18,9 +18,15 @@ $ python train.py
 $ python demo.py
 ```
 
+### Figure loss and accuracy
+
+![](figure1.jpg)
+
+![](figure2.jpg)
+
 ## Sources
 
-I am not owner of most of things and I just used a dataset which avaiable on the following links. It was so funnt for me to implenment and test and running this idea (Detect Masky face) in my machine.
+I am not owner of most of things and I just used a dataset which avaiable on the following links. It was so funny for me to implenment and test and running this idea (Detect Masky face) in my machine.
 
 - https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 - https://pythonprogramming.net/convolutional-neural-network-deep-learning-python-tensorflow-keras/
