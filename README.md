@@ -10,8 +10,8 @@ In the deep learning, using a convolutional neural network (**CNN**) we are tryi
 
 
 This dataset consists of 1,376 images belonging to two classes:
-- with_mask: 690 images
-- without_mask: 686 images
+- **with_mask:** 690 images
+- **without_mask:** 686 images
 
 Our goal is to train a custom deep learning model to detect whether a person is or is not wearing a mask.
 
